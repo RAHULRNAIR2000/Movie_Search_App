@@ -1,3 +1,23 @@
+![Screenshot from 2024-03-12 12-06-09](https://github.com/RAHULRNAIR2000/moviemania/assets/83546515/94ac287c-a8bc-44d4-94bc-731538c38450)# Movie Searching App
+
+Description:
+
+MovieMania is a user-friendly web application designed to help users explore a vast database of movies. With a sleek and intuitive interface, users can easily search for their favorite movies, discover new releases, and explore detailed information about each film.
+
+Key Features:
+
+    Search Functionality: Users can search for movies by title making it easy to find exactly what they're looking for.
+    Detailed Movie Information: Each movie listing provides comprehensive details.
+    Dynamic Results: As users type in the search bar, Movie Searcher dynamically updates the results, providing instant feedback and suggestions.
+    Responsive Design: The application is optimized for both desktop and mobile devices, ensuring a seamless experience across all platforms.
+
+API Details:
+MovieMaina utilizes the Open Movie Database (OMDb) API to fetch movie data. The OMDb API offers a comprehensive database of movies, TV shows, and other entertainment content. It provides access to a wide range of information, including movie titles, ratings, types and more. By leveraging the OMDb API, Movie Searcher delivers accurate and up-to-date movie information to users, enhancing their browsing experience.
+
+file:///home/rahulrnair/Pictures/Screenshots/Screenshot%20from%202024-03-12%2012-06-09.png
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
