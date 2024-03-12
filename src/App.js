@@ -2,7 +2,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
-const API_URL = "http://www.omdbapi.com?apikey=b391aae7";
+const API_URL = "https://www.omdbapi.com?apikey=b391aae7";
 
 // const movie1 = {
 //   Title: "Italian Spiderman",
